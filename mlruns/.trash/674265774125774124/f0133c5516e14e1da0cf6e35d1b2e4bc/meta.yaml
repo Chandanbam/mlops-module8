@@ -1,0 +1,15 @@
+artifact_uri: s3://chandanbam-bucket/group6-capstone/f0133c5516e14e1da0cf6e35d1b2e4bc/artifacts
+deleted_time: 1752935862613
+end_time: 1752933549968
+entry_point_name: ''
+experiment_id: '674265774125774124'
+lifecycle_stage: deleted
+run_id: f0133c5516e14e1da0cf6e35d1b2e4bc
+run_name: lstm_training_20250719_192851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752933531211
+status: 3
+tags: []
+user_id: as30

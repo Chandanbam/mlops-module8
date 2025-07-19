@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/570224788945850125/cc2cab56db9b44589836eddc23f5704b/artifacts
+deleted_time: 1752930561012
+end_time: 1752930506516
+entry_point_name: ''
+experiment_id: '570224788945850125'
+lifecycle_stage: deleted
+run_id: cc2cab56db9b44589836eddc23f5704b
+run_name: lstm_training_20250719_183816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752930496803
+status: 4
+tags: []
+user_id: as30

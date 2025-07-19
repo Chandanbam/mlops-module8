@@ -1,0 +1,15 @@
+artifact_uri: s3://chandanbam-bucket/group6-capstone/03a53e6f4d3c44a4bc843a97cc5aaf37/artifacts
+deleted_time: 1752945302560
+end_time: 1752944653409
+entry_point_name: ''
+experiment_id: '359277815552995003'
+lifecycle_stage: deleted
+run_id: 03a53e6f4d3c44a4bc843a97cc5aaf37
+run_name: test-s3-fix-20250719_223408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752944648401
+status: 3
+tags: []
+user_id: as30

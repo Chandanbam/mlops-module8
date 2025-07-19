@@ -1,0 +1,15 @@
+artifact_uri: s3://your-mlflow-bucket/artifacts/4f5608b67e644ff2bbfb8204e51f2b09/artifacts
+deleted_time: 1752935870252
+end_time: 1752931876282
+entry_point_name: ''
+experiment_id: '469122156020899604'
+lifecycle_stage: deleted
+run_id: 4f5608b67e644ff2bbfb8204e51f2b09
+run_name: lstm_training_20250719_190057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752931857735
+status: 3
+tags: []
+user_id: as30

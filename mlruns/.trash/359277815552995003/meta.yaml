@@ -1,0 +1,7 @@
+artifact_location: s3://chandanbam-bucket/group6-capstone
+creation_time: 1752944648302
+experiment_id: '359277815552995003'
+last_update_time: 1752945302560
+lifecycle_stage: deleted
+name: test_s3_organization
+tags: {}

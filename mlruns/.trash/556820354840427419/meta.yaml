@@ -1,0 +1,7 @@
+artifact_location: s3://chandanbam-bucket/group6-capstone
+creation_time: 1752932411970
+experiment_id: '556820354840427419'
+last_update_time: 1752935865685
+lifecycle_stage: deleted
+name: openstack_rca_system_v4
+tags: {}

@@ -1,0 +1,14 @@
+artifact_uri: s3://chandanbam-bucket/group6-capstone/1d4996664ffd41788983b6b4c74e573f/artifacts
+end_time: 1752946071461
+entry_point_name: ''
+experiment_id: '125658939873844647'
+lifecycle_stage: active
+run_id: 1d4996664ffd41788983b6b4c74e573f
+run_name: openstack-rca-system-staging_20250719_225737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752946057492
+status: 3
+tags: []
+user_id: as30

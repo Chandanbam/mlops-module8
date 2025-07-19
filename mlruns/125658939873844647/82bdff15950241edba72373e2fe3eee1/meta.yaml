@@ -1,0 +1,14 @@
+artifact_uri: s3://chandanbam-bucket/group6-capstone/82bdff15950241edba72373e2fe3eee1/artifacts
+end_time: 1752949495417
+entry_point_name: ''
+experiment_id: '125658939873844647'
+lifecycle_stage: active
+run_id: 82bdff15950241edba72373e2fe3eee1
+run_name: rca_inference_20250719_235435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752949475701
+status: 4
+tags: []
+user_id: as30
